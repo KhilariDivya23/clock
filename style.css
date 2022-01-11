@@ -91,6 +91,22 @@ body{
     transform: rotate(0deg);
 }
 
+.one-sev{
+    transform: rotate(30deg);
+}
+
+.two-eig{
+    transform: rotate(60deg);
+}
+
 .thr-nin{
     transform: rotate(90deg);
+}
+
+.fou-ten{
+    transform: rotate(120deg);
+}
+
+.fiv-ele{
+    transform: rotate(150deg);
 }
